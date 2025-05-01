@@ -1,0 +1,11 @@
+C:\Users\dhaka\Desktop\AngularProject\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\dhaka\Desktop\AngularProject\src\Application\bin\Debug\net9.0\Application.dll
+C:\Users\dhaka\Desktop\AngularProject\src\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.dll
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\ref\Application.dll

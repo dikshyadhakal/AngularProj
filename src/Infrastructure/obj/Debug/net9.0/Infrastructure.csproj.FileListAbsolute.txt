@@ -1,0 +1,11 @@
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\dhaka\Desktop\AngularProject\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

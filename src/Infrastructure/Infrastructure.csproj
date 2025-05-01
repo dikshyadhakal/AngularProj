@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="persistence\" />
+    <Folder Include="persistence\Configuration\" />
+    <Folder Include="persistence\Context\" />
+    <Folder Include="persistence\Repositories\" />
+  </ItemGroup>
+
+</Project>
