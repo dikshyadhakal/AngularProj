@@ -9,3 +9,4 @@ C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Applicati
 C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\dhaka\Desktop\AngularProject\src\Application\obj\Debug\net9.0\Application.sourcelink.json
