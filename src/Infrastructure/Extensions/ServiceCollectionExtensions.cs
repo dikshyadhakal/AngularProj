@@ -17,7 +17,7 @@ public static class ServiceCollectionExtensions
 
         services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+        services.AddScoped<IUserRepository, UserRepository>();
         return services;
     }
 

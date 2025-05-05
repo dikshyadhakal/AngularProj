@@ -33,6 +33,4 @@ public class GenericRepository<TEntity>(ApplicationDbContext context) : IGeneric
         var entry = DbSet.Update(entity);
         return entry.Entity;
     }
-
-
 }

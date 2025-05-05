@@ -91,3 +91,5 @@ C:\Users\dhaka\Desktop\AngularProject\src\API\bin\Debug\net9.0\Infrastructure.pd
 C:\Users\dhaka\Desktop\AngularProject\src\API\bin\Debug\net9.0\Application.pdb
 C:\Users\dhaka\Desktop\AngularProject\src\API\bin\Debug\net9.0\Domain.pdb
 C:\Users\dhaka\Desktop\AngularProject\src\API\obj\Debug\net9.0\API.sourcelink.json
+C:\Users\dhaka\Desktop\AngularProject\src\API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\dhaka\Desktop\AngularProject\src\API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
