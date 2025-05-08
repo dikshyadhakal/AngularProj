@@ -8,6 +8,6 @@ public interface IUserRepository : IGenericRepository<User>
 {
     Task<User?>GetUserByEmailAsync(string Email);
 
-    Task<List<string>>GetUserRolesByEmail(string Email);
+    Task<List<string>>GetUserRolesByEmailAsync(string Email);
 
 }

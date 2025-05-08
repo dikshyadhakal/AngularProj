@@ -36,8 +36,8 @@
               "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Application\\Application.csproj": {
                 "projectPath": "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Application\\Application.csproj"
               },
-              "C:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -58,6 +58,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -149,9 +153,21 @@
               "target": "Package",
               "version": "[11.11.0, )"
             },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.9.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.9.0, )"
             }
           },
           "imports": [
@@ -240,14 +256,14 @@
         }
       }
     },
-    "C:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\dhaka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\dhaka\\Desktop\\AngularProject\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

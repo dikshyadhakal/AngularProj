@@ -12,7 +12,8 @@ namespace Application.Services;
 public class AuthenticationService(IUnitOfWork unitOfWork, 
 IUserRepository userRepository, 
 LoginRequestValidator loginRequestValidator,
-RegisterRequestValidator registerRequestValidator) : IAuthenticationService
+RegisterRequestValidator registerRequestValidator,
+IJwtService jwtService) : IAuthenticationService
 {
 
 
@@ -35,7 +36,7 @@ RegisterRequestValidator registerRequestValidator) : IAuthenticationService
         {
             return Result.Failure(AuthenticationError.InvalidPassword);
         }
-        var token = "token";//will be replaced.
+        var token = await jwtService.GenerateTokenAsync(user);
         var result = new {
             Token = token,
             Username = user.Username
