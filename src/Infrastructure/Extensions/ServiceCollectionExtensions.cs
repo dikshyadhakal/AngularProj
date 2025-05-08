@@ -1,4 +1,6 @@
 using System;
+using Application.Interface;
+using Application.Services;
 using Domain.Interface;
 using Infrastructure.persistence.Context;
 using Infrastructure.persistence.Repositories;
@@ -18,6 +20,7 @@ public static class ServiceCollectionExtensions
         services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped<IUserRepository, UserRepository>();
+        services.AddScoped<IJwtService, JwtService>();
         return services;
     }
 
